@@ -1,2 +1,2 @@
-print("I am learn git")
+print("Hi")
 
